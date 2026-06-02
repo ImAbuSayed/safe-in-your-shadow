@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/safe-in-your-shadow/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Safe In Your Shadow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/safe-in-your-shadow/) |
+| **Get License** | [Official Music Licensing for Safe In Your Shadow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/safe-in-your-shadow/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Midnight falls and the shadows play
+> I trace the lines where your secrets lay
+> Lost in the dark but I found my home
+> Safe in your shadow, I am not alone
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
