@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Safe In Your Shadow
+
+This log tracks the cryptographic history and versioning for the song **Safe In Your Shadow** (safe-in-your-shadow).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-03T04:00:36.608495 | `v1` | `259602c3ce598ba14190923fc5eebc33cd07a26121124dd3c394bca834d92480` | `ba8f23f7a9523d72e002a5f6e67401ea3afb46902962754ce4746a8fd8122c36` | `2026-06-03_safe-in-your-shadow-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

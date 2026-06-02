@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/safe-in-your-shadow/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Safe In Your Shadow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/safe-in-your-shadow/) |
+| **Get License** | [Music Rights & Licensing for Safe In Your Shadow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/safe-in-your-shadow/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `259602c3ce598ba14190923fc5eebc33cd07a26121124dd3c394bca834d92480` |
 | **Timestamp** | June 03, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
